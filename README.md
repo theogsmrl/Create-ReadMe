@@ -4,4 +4,4 @@ Im 22 years old (nearly x) ) I have studied *HTML CSS Python and JS* few years a
 It would be a pleasure to work with any of you, yes you, who is reading my Readme file :).
 
 ![alt text][photo]
-[photo]: photo.jfif
+[photo]: https://github.com/theogsmrl/Create-ReadMe/blob/main/photo.jfif
